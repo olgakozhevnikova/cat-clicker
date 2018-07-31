@@ -5,3 +5,11 @@
 img {
     height: 15rem;
 }
+
+.open {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
